@@ -323,7 +323,7 @@ const Index = () => {
                         </p>
                         <div className="flex flex-col sm:flex-row items-center justify-center gap-2 sm:gap-3">
                           <motion.a 
-                            href="https://www.facebook.com/profile.php?id=100076473301474/"
+                            href="https://www.facebook.com/profile.php?id=100076473301474"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-2 sm:gap-2.5 px-5 sm:px-6 py-2.5 sm:py-3 bg-secondary/60 hover:bg-primary hover:text-primary-foreground text-secondary-foreground rounded-full transition-all duration-300 border border-sage-light/20 hover:border-transparent backdrop-blur-sm w-full sm:w-auto justify-center"
